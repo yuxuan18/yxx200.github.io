@@ -18,7 +18,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-[GitHub](https://github.com/zyxum) [Twitter](https://twitter.com/maxyuxuan) [LinkedIn](https://www.linkedin.com/in/yuxuan-zhu-7147bb225) [❤️](/acknowledgement/)
+[GitHub](https://github.com/zyxum) [Twitter](https://twitter.com/maxyuxuan) [LinkedIn](https://www.linkedin.com/in/yuxuan-zhu-7147bb225) [🌟](/acknowledgement/)
 
 I am a senior undergraduate students at the [University of Michigan, Ann Arbor](https://umich.edu/), majoring in [Computer Science](https://cse.engin.umich.edu/). I have a broad interest in systems and networking. I am especially passion about building efficient, reliable, and scalable systems for maching learning and big data workloads.
 
