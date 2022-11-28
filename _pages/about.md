@@ -15,7 +15,8 @@ profile:
     # <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_projects: true # includes a list of projects marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 [GitHub](https://github.com/zyxum) [Twitter](https://twitter.com/maxyuxuan) [LinkedIn](https://www.linkedin.com/in/yuxuan-zhu-7147bb225) [🌟](/acknowledgement/)
